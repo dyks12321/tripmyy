@@ -1339,6 +1339,11 @@ a {
   display: flex;
   padding-top: 20rem;
   padding-bottom: 6rem;
+  background-image: url("../../../assets/images/japan-banner.jpg");
+}
+.cid-vg4xGtUSZp .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.3;
 }
 @media (min-width: 768px) {
   .cid-vg4xGtUSZp {
@@ -1380,7 +1385,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-vg4xGtUSZp .mbr-section-title,
 .cid-vg4xGtUSZp .mbr-section-subtitle {
